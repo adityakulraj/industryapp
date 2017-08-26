@@ -1,0 +1,50 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="aarnav100.developer.iitd.Main6Activity$PlaceholderFragment"
+    android:background="@android:color/black">
+<LinearLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/black">
+
+    <ImageView
+        android:id="@+id/work"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:text="MY WORKFORCE"
+        android:src="@drawable/workforce"
+        android:gravity="center"/>
+    <ImageView
+        android:id="@+id/machine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:src="@drawable/machine"
+        android:text="MACHINERY"
+        android:gravity="center"/>
+    <ImageView
+        android:id="@+id/calen"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:padding="20dp"
+        android:src="@drawable/calendar"
+        android:text="CALENDER"
+        android:gravity="center"/>
+    <ImageView
+        android:id="@+id/requir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:src="@drawable/requir"
+        android:text="REQUIREMENTS"
+        android:gravity="center"/>
+</LinearLayout>
+</ScrollView>

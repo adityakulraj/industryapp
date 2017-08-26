@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/anirudh/Downloads/iitd-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c3c4562eb3fc0aa2f5d72ff6636a72f852d2e2f2">
+        <dex dex="/home/anirudh/Downloads/iitd-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_da9fadcf1a9b4c56364381ecddcdf68a8821e632/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anirudh/Downloads/iitd-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/anirudh/Downloads/iitd-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2cef6972e0bbbc6ce7e50e675150658227a85f9b/classes.dex" />
+    </item>
+
+</items>
